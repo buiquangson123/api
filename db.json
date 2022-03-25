@@ -1,0 +1,252 @@
+{
+  "categories": [
+    {
+      "id": "182ea0c6-1cbc-4791-aede-fef1e0a8f29c",
+      "name": "Mrs. Marvin Ryan",
+      "userName": "Weldon_Raynor",
+      "firstName": "Cheyenne",
+      "lastName": "Kub",
+      "fullName": "Kaleb Breitenberg",
+      "phone": "429-473-4972"
+    },
+    {
+      "id": "74d33292-4cc8-4fa0-a3b2-8de487aab56b",
+      "name": "Ms. Kathryn Roberts",
+      "userName": "Brannon_Dickinson",
+      "firstName": "Durward",
+      "lastName": "Brakus",
+      "fullName": "Kayden Bernier",
+      "phone": "161-141-9969"
+    },
+    {
+      "id": "385a1790-5bef-4d68-b007-4d183509f6a1",
+      "name": "Miss Kailyn Barton",
+      "userName": "Samara.Ferry",
+      "firstName": "Savanna",
+      "lastName": "Heaney",
+      "fullName": "Claudia Hane",
+      "phone": "430-079-1244"
+    },
+    {
+      "id": "2fb7ca05-5ce3-4e8d-a384-6f030291a933",
+      "name": "Mrs. Wilton Tremblay",
+      "userName": "Josefina.Stokes",
+      "firstName": "Kenneth",
+      "lastName": "Williamson",
+      "fullName": "Ismael Satterfield",
+      "phone": "790-460-6992"
+    },
+    {
+      "id": "f9e30b7a-e7c3-4f8c-99c2-2df71f13e4a3",
+      "name": "Mrs. Zackery Welch",
+      "userName": "Walter.Johnston",
+      "firstName": "Faye",
+      "lastName": "Corwin",
+      "fullName": "Autumn Sauer",
+      "phone": "562-571-6971"
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "182ea0c6-1cbc-4791-aede-fef1e0a8f29c",
+      "id": "5eda6bd4-9dd6-4b18-b64e-723734789ff8",
+      "color": "MediumBlue",
+      "des": "Sapiente id eum nobis quod sit nostrum officia. Voluptas in vero dolor ab. Itaque qui tenetur voluptas suscipit vel. Exercitationem enim aut nulla cupiditate quis blanditiis.",
+      "title": "Est ut officiis",
+      "createdAt": 1648174656098
+    },
+    {
+      "categoryId": "182ea0c6-1cbc-4791-aede-fef1e0a8f29c",
+      "id": "450d852f-7b62-430b-8d50-4654dc92055d",
+      "color": "Cornsilk",
+      "des": "Unde necessitatibus totam. Explicabo iste atque non ipsa corporis est a inventore eos. Perferendis pariatur enim animi ut beatae quod.",
+      "title": "A sint",
+      "createdAt": 1648174656098
+    },
+    {
+      "categoryId": "182ea0c6-1cbc-4791-aede-fef1e0a8f29c",
+      "id": "3245fcfb-3a50-4b8d-8c1a-a57b283e50ac",
+      "color": "SlateBlue",
+      "des": "Et perferendis aperiam vel impedit. Natus consectetur et dolores. Sit accusamus sapiente voluptatem possimus magni explicabo in.",
+      "title": "Odit asperiores a",
+      "createdAt": 1648174656099
+    },
+    {
+      "categoryId": "182ea0c6-1cbc-4791-aede-fef1e0a8f29c",
+      "id": "e515a913-c42f-4195-9624-290fa1dec3cb",
+      "color": "Orange",
+      "des": "Qui sed sed non quis error et. Placeat ullam cumque sunt voluptatem cupiditate ut nisi. Dolores doloremque non iste quas. Libero debitis vel et est.",
+      "title": "Minus sint non",
+      "createdAt": 1648174656099
+    },
+    {
+      "categoryId": "182ea0c6-1cbc-4791-aede-fef1e0a8f29c",
+      "id": "02337df8-e616-4a90-b8e4-b4bcd4442c27",
+      "color": "LightPink",
+      "des": "Sed hic ex cum. Vel rerum enim. Placeat nam est modi nihil corrupti molestiae aliquid excepturi. Dolorem eligendi iure natus repellendus sint quo qui. Et unde ut neque voluptas et aperiam necessitatibus sed natus.",
+      "title": "Aut natus",
+      "createdAt": 1648174656099
+    },
+    {
+      "categoryId": "74d33292-4cc8-4fa0-a3b2-8de487aab56b",
+      "id": "a63b7256-cac9-4369-9bac-9fee318ad9a5",
+      "color": "LightCoral",
+      "des": "Fuga sint ad sit voluptates voluptas amet qui commodi. Quibusdam vel maxime doloribus quia et. Eligendi nam in sapiente nemo. Quo est tenetur fuga officiis doloremque.",
+      "title": "Eius quo",
+      "createdAt": 1648174656100
+    },
+    {
+      "categoryId": "74d33292-4cc8-4fa0-a3b2-8de487aab56b",
+      "id": "cd69ace1-9ed4-4945-9554-73abe63e7985",
+      "color": "Plum",
+      "des": "Eos laudantium atque ipsa rerum. Quos voluptas voluptates vitae beatae incidunt iste natus. Aut culpa voluptatem quia nobis. Et in voluptatem quo ut aliquid qui odio.",
+      "title": "Quibusdam libero et",
+      "createdAt": 1648174656101
+    },
+    {
+      "categoryId": "74d33292-4cc8-4fa0-a3b2-8de487aab56b",
+      "id": "af51fc10-a01a-43ee-b93b-8dfdccede02c",
+      "color": "White",
+      "des": "Enim tempore at totam quia. Iusto doloremque debitis nostrum aut occaecati quisquam. Velit culpa officia quia. Id debitis omnis aspernatur eum. Doloribus nihil expedita aut asperiores possimus.",
+      "title": "Quia molestias",
+      "createdAt": 1648174656101
+    },
+    {
+      "categoryId": "74d33292-4cc8-4fa0-a3b2-8de487aab56b",
+      "id": "2893cf9d-4f3b-4915-9a08-df6d8953316e",
+      "color": "PowderBlue",
+      "des": "Culpa voluptatibus debitis explicabo. Qui qui modi. Optio architecto illo consequatur.",
+      "title": "Ratione itaque atque",
+      "createdAt": 1648174656101
+    },
+    {
+      "categoryId": "74d33292-4cc8-4fa0-a3b2-8de487aab56b",
+      "id": "bcb36b67-3415-4084-b21b-889aa89d9458",
+      "color": "LightSalmon",
+      "des": "Expedita quasi eos ut harum in sequi veniam. Labore natus qui perspiciatis. Consequatur ut eum architecto ab nemo. Fuga nihil omnis quis omnis ea beatae sit molestiae. Molestiae saepe ducimus eos sit repellendus necessitatibus dolores maxime.",
+      "title": "Error suscipit et",
+      "createdAt": 1648174656102
+    },
+    {
+      "categoryId": "385a1790-5bef-4d68-b007-4d183509f6a1",
+      "id": "2f9f5107-9bdd-4e7f-968b-173bdd5d440c",
+      "color": "FireBrick",
+      "des": "Aut quia aperiam accusamus neque. Accusamus fugit deleniti. Beatae deserunt beatae adipisci culpa incidunt voluptatem et. Impedit cum provident dolorem labore.",
+      "title": "Ut eaque eius",
+      "createdAt": 1648174656102
+    },
+    {
+      "categoryId": "385a1790-5bef-4d68-b007-4d183509f6a1",
+      "id": "d3c7ea7f-81c6-4e1c-9f61-64983800fc47",
+      "color": "DarkKhaki",
+      "des": "Veniam eos eaque perferendis officiis voluptatibus ut odit. Sint temporibus a distinctio eaque impedit. Repudiandae nostrum commodi consectetur modi velit. Nostrum quod odit aliquid deserunt non dignissimos. Rerum ducimus perspiciatis sint consequatur et nisi iure.",
+      "title": "Quasi magnam praesentium",
+      "createdAt": 1648174656105
+    },
+    {
+      "categoryId": "385a1790-5bef-4d68-b007-4d183509f6a1",
+      "id": "3882b327-7ba3-4a20-8de2-a0730a0759f0",
+      "color": "CadetBlue",
+      "des": "Provident voluptate distinctio nihil neque nobis recusandae nihil ad. Qui voluptas dignissimos quia corporis ut maxime. Porro qui rerum culpa qui sed.",
+      "title": "Pariatur eos",
+      "createdAt": 1648174656105
+    },
+    {
+      "categoryId": "385a1790-5bef-4d68-b007-4d183509f6a1",
+      "id": "3a4b37bf-af32-4f6c-9996-cbbbe13e650c",
+      "color": "LightSteelBlue",
+      "des": "Est quam provident sequi. In ab itaque beatae placeat aut. Qui alias maxime excepturi.",
+      "title": "Consectetur inventore totam",
+      "createdAt": 1648174656105
+    },
+    {
+      "categoryId": "385a1790-5bef-4d68-b007-4d183509f6a1",
+      "id": "fc719406-a573-477a-a6e7-fb056b06407c",
+      "color": "NavajoWhite",
+      "des": "Corporis quibusdam dolores animi qui. Voluptatem totam suscipit qui qui vel excepturi quia. Ad veritatis porro laborum quo laboriosam corrupti veniam.",
+      "title": "Dolore nihil qui",
+      "createdAt": 1648174656105
+    },
+    {
+      "categoryId": "2fb7ca05-5ce3-4e8d-a384-6f030291a933",
+      "id": "3faefb07-8d83-4173-8680-abf910a167a9",
+      "color": "FireBrick",
+      "des": "Distinctio at harum omnis quis. A sed voluptas quia reprehenderit architecto eaque. Quis et sequi optio tempore numquam culpa libero ut. Quisquam id quam nisi illo deserunt amet vitae sunt.",
+      "title": "Accusamus asperiores",
+      "createdAt": 1648174656106
+    },
+    {
+      "categoryId": "2fb7ca05-5ce3-4e8d-a384-6f030291a933",
+      "id": "95b5dddb-9ef3-4881-be99-3be291b67721",
+      "color": "Fuchsia",
+      "des": "Doloremque in qui maxime corporis ullam ut qui. Consequatur neque illum iste nemo quam iusto doloribus dolorem. Id et mollitia eaque voluptatem unde officia vitae. Tempora ut aperiam voluptatem recusandae ut nesciunt ipsa.",
+      "title": "Ea ut",
+      "createdAt": 1648174656106
+    },
+    {
+      "categoryId": "2fb7ca05-5ce3-4e8d-a384-6f030291a933",
+      "id": "4795630c-7024-4684-b289-9cba7058641c",
+      "color": "CadetBlue",
+      "des": "Et nostrum minima temporibus porro numquam quaerat voluptas eius. Voluptate harum doloremque placeat nostrum velit quia consequatur in. Fugit exercitationem porro sit qui vero et magni eaque accusamus.",
+      "title": "Incidunt voluptatem",
+      "createdAt": 1648174656106
+    },
+    {
+      "categoryId": "2fb7ca05-5ce3-4e8d-a384-6f030291a933",
+      "id": "1c55b17a-636b-45fb-8767-4e6876e33ec3",
+      "color": "BlueViolet",
+      "des": "Molestias sint incidunt eum ab pariatur at nobis. Delectus unde deserunt quis quo suscipit assumenda tenetur. Necessitatibus totam molestias.",
+      "title": "Autem quo",
+      "createdAt": 1648174656106
+    },
+    {
+      "categoryId": "2fb7ca05-5ce3-4e8d-a384-6f030291a933",
+      "id": "eea2d7ef-fe7d-479f-a13b-ea722c4b108a",
+      "color": "HoneyDew",
+      "des": "Nemo est in. Voluptas inventore earum eveniet sit voluptas maxime. Optio itaque voluptatem praesentium nostrum provident eligendi dolor et. Est consectetur dicta numquam aliquid. Ducimus eveniet et odio vitae est ratione provident aliquam.",
+      "title": "Distinctio tenetur",
+      "createdAt": 1648174656107
+    },
+    {
+      "categoryId": "f9e30b7a-e7c3-4f8c-99c2-2df71f13e4a3",
+      "id": "e54d88da-fea5-4173-979b-8538a97eca25",
+      "color": "PaleGreen",
+      "des": "Et explicabo at nemo. Aut iure esse. In praesentium laborum consequatur illum. Quia voluptas ad qui temporibus alias similique. Quas aperiam quia sequi et et.",
+      "title": "Repellat quo",
+      "createdAt": 1648174656107
+    },
+    {
+      "categoryId": "f9e30b7a-e7c3-4f8c-99c2-2df71f13e4a3",
+      "id": "d27ce7dd-ca99-4f48-9527-bc656e819a25",
+      "color": "Aquamarine",
+      "des": "At soluta veritatis occaecati qui sunt laudantium iste omnis dolore. Optio voluptas enim alias ut laudantium. Mollitia sed omnis ut assumenda odit tenetur.",
+      "title": "Ullam soluta",
+      "createdAt": 1648174656107
+    },
+    {
+      "categoryId": "f9e30b7a-e7c3-4f8c-99c2-2df71f13e4a3",
+      "id": "cc704954-79c0-46cd-be69-9a34f19858c6",
+      "color": "PowderBlue",
+      "des": "Est rerum itaque velit qui blanditiis excepturi ipsum. Iste qui ipsam nemo in ullam delectus. Voluptatem mollitia nisi atque magnam dolores officiis error ipsum. Et impedit sit fugit natus neque ut. Voluptatem consectetur explicabo.",
+      "title": "Sed a commodi",
+      "createdAt": 1648174656107
+    },
+    {
+      "categoryId": "f9e30b7a-e7c3-4f8c-99c2-2df71f13e4a3",
+      "id": "411340c0-63d2-4ae1-aacc-81a4ad68f36a",
+      "color": "MediumSpringGreen",
+      "des": "Velit voluptatum provident id est. Voluptate enim ea nisi sunt incidunt aliquid hic consectetur. Sapiente autem recusandae animi aspernatur sunt sequi sint. Voluptas enim quasi doloremque quas placeat. Nobis accusantium quos odit qui cumque illo rerum eligendi.",
+      "title": "Ad vel",
+      "createdAt": 1648174656108
+    },
+    {
+      "categoryId": "f9e30b7a-e7c3-4f8c-99c2-2df71f13e4a3",
+      "id": "2d4ff71c-db7e-4b20-8d04-7c25b7ebc6cd",
+      "color": "PaleTurquoise",
+      "des": "Recusandae consequuntur tempora numquam atque sint voluptatibus aliquid laboriosam. Eveniet odit a voluptas quia dolor quos. Qui quo iusto rem.",
+      "title": "Culpa labore ea",
+      "createdAt": 1648174656108
+    }
+  ],
+  "profile": { "name": "Pro" }
+}

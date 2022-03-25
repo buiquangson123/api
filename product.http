@@ -1,0 +1,49 @@
+@baseUrl=http://localhost:3000/api
+
+@resourceName=products
+
+
+#Products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filterProducts price_gte(>=)=200  _lte(<=) title_like=xe(chưa từ "xe")
+GET {{baseUrl}}/{{resourceName}}?color=LightSalmon
+
+###
+
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=2&_limit=4
+
+###
+
+# @name sort desc:giam asc:tang
+GET {{baseUrl}}/{{resourceName}}?_sort=createdAt&_order=asc
+
+###
+
+# @name postItem
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "Bùi Quang Thắng"
+}
+
+###
+
+# @name updateItem
+PATCH {{baseUrl}}/{{resourceName}}/1
+Content-Type: application/json
+
+{
+    "name": "Bùi Quang"
+}
+
+###
+
+# @name deleteItem
+DELETE  {{baseUrl}}/{{resourceName}}/2

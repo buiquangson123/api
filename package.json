@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "query-string": "^7.1.1"
+  },
+  "name": "customdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "casual": "^1.6.2",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "npm run generate-data && node main.js",
+    "generate-data": "node generate-data.js"
+  },
+  "author": "SonBui",
+  "license": "ISC",
+  "description": ""
+}
